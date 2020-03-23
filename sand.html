@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursor-phobic</title>
+ 
+</head>
+<body>
+    <div class="container">
+            <!-- :3 -->
+    </div>
+    <script
+    src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous"></script>
+    <script >
+        $(function(){
+            
+var divPhoby = '<div class="phoby"></div>';
+var clearance = 17 ;
+var nb = 500 ;
+
+for(i=0;i<nb;i++){
+    $('.container').append(divPhoby);
+    $('.phoby:last-child').animate({ top:$(document).height()*0.375+(Math.random()*$(document).height()/4), left: $(document).width()*0.375+(Math.random()*$(document).width()/4)},1);
+}
+
+
+$('.phoby').css('position','absolute')
+            .css('width','16px')
+            .css('height', '16px')
+            .css('border-radius','100%')
+            .css('background-color','purple')
+            .css('border','solid 1px black');
+            
+$( document ).on( "mousemove", function( event ) {
+        event.preventDefault();
+        event.stopPropagation();
+        $(document).clearQueue();
+        // setInterval(function(){
+        
+        $('.phoby').each(function(){
+            let isAbove ;
+            t = $(this).offset().top + 8 ;
+            l = $(this).offset().left + 8;
+            mouseY = Math.floor(event.pageY) ;
+            mouseX = Math.floor(event.pageX) ;
+            
+            if(
+                t - mouseY < clearance
+                && t - mouseY > 0
+                && Math.abs(l - mouseX) < clearance
+                    ){
+                        $(this).css('background-color','pink');
+                        $(this).animate({
+                        top: $(this).offset().top + 10 
+                        },10)
+                    
+                }
+                else if(
+                     mouseY - t < clearance
+                    && mouseY - t > 0
+                    && Math.abs(l - mouseX) < clearance
+                        ){
+                            $(this).css('background-color','pink');
+                            $(this).animate({
+                            top: $(this).offset().top - 10 
+                            },10)
+                        
+                    }
+                 if(
+                    mouseX - l < clearance
+                    && mouseX - l > 0
+                    && Math.abs(t - mouseY) < clearance
+                        ){
+                            $(this).css('background-color','pink');
+                            $(this).animate({
+                            left: $(this).offset().left - 10 
+                            },10)
+                        
+                    }
+                 if(
+                    l - mouseX < clearance
+                    && l - mouseX > 0
+                      && Math.abs(t - mouseY) < clearance
+                        ){
+                            $(this).css('background-color','pink');
+                            $(this).animate({
+                            left: $(this).offset().left + 10 
+                            },10)
+                        
+                    }
+
+                 $(this).css('background-color','purple');
+                
+                
+            })
+     
+    });
+
+});
+    </script>
+</body>
+</html>
