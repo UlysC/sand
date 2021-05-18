@@ -1,0 +1,641 @@
+{
+  "mapKey": "A",
+  "domain": "locator.amarettoadriatico.com",
+  "logoUrl": "https://www.amarettoadriatico.com/",
+  "uaGtrKey": "U",
+  "customListsGlobal": [
+    {
+      "locale": "en",
+      "lists": [
+        {
+          "key": "hotbanner",
+          "title": "En ce moment",
+          "items": [
+            {
+              "key": "banner1",
+              "picture": "https://lpe-prod.s3.eu-west-3.amazonaws.com/adriatico-bkkyyqn0nb/assets/banner-awards.png",
+              "title": "UNA NUOVA GENERAZIONE DI LIQUORE DI AMARETTO",
+              "link": "https://www.amarettoadriatico.com/pages/our-story",
+              "alt": "awards"
+            }
+          ]
+        },
+        {
+          "key": "cocktails",
+          "title": "DÉCOUVREZ NOS COCKTAILS",
+          "link": "Voir la recette",
+          "items": [
+            {
+              "key": "cocktail1",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/bianco.png",
+              "title": "AMARETTO BIANCO SOUR",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/amaretto-bianco-sour-vegan"
+            },
+            {
+              "key": "cocktail2",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/roasted.png",
+              "title": "AMARETTO ADRIATICO ROASTED SOUR",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/test"
+            },
+            {
+              "key": "cocktail3",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/adriatico-chinotto",
+              "title": "AMARETTO ADRIATICO ROASTED SOUR",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/chinotto.png"
+            },
+            {
+              "key": "cocktail4",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/godfather.png",
+              "title": "ADRIATICO \"GODFATHER\"",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/adriatico-godfather"
+            },
+            {
+              "key": "cocktail5",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/expresso.png",
+              "title": "ADRIATICO BIANCO \"ESPRESSO MARTINI\"",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/adriatico-bianco-espresso-martini"
+            },
+            {
+              "key": "cocktail6",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/cappuccino.png",
+              "title": "ADRIATICO BIANCO \"CAPPUCCINO\"",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/adriatico-bianco-cappuccino"
+            },
+            {
+              "key": "cocktail7",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/double.png",
+              "title": "DOUBLE CRUSHED",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/test-blog"
+            }
+          ]
+        },
+        {
+          "key": "products",
+          "title": "DECOUVREZ NOS PRODUITS",
+          "items": [
+            {
+              "key": "product1",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/products/bianco.png",
+              "title": "AMARETTO BIANCO",
+              "description": "Amandes blanches écrasées.<br>Sans lactose. <br>16% Alc. Vol. 70 cl.",
+              "link": "",
+              "alt": ""
+            },
+            {
+              "key": "product2",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/products/roasted.png",
+              "title": "AMARETTO ROASTED",
+              "link": "",
+              "alt": "",
+              "description": "Amandes grillées et une pointe de sel de mer.<br>Ingrédients naturels.<br>28% Alc Vol. 70 cl."
+            }
+          ],
+          "link": "Voir nos produits"
+        },
+        {
+          "key": "hotlocation",
+          "items": [
+            {
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/location/banner1.png",
+              "key": "banner1",
+              "title": "Natural",
+              "alt": "Natural ingredients"
+            },
+            {
+              "key": "banner2",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/location/banner2.png",
+              "alt": "Hand picked from Puglia",
+              "title": "Puglia"
+            },
+            {
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/location/banner3.png",
+              "key": "banner3",
+              "alt": "Roasted and distilled",
+              "title": "Roasted"
+            },
+            {
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/location/banner4.png",
+              "key": "banner4",
+              "title": "Salt",
+              "alt": "With Adriatic sea salt"
+            }
+          ],
+          "title": "Made in Puglia"
+        },
+        {
+          "key": "event",
+          "title": "COCKTAIL SIGNATURE",
+          "items": []
+        }
+      ]
+    },
+    {
+      "locale": "en",
+      "lists": [
+        {
+          "key": "cocktails",
+          "title": "DISCOVER OUR COCKTAILS",
+          "items": [
+            {
+              "key": "cocktail1",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/bianco.png",
+              "title": "AMARETTO BIANCO SOUR",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/amaretto-bianco-sour-vegan"
+            },
+            {
+              "key": "cocktail2",
+              "title": "AMARETTO ADRIATICO ROASTED SOUR",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/test",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/roasted.png"
+            },
+            {
+              "key": "cocktail3",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/adriatico-chinotto",
+              "title": "AMARETTO ADRIATICO ROASTED SOUR",
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/chinotto.png"
+            },
+            {
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/cocktails/godfather.png",
+              "key": "cocktail4",
+              "title": "ADRIATICO \"GODFATHER\"",
+              "link": "https://www.amarettoadriatico.com/blogs/cocktail1/adriatico-godfather"
+            }
+          ]
+        },
+        {
+          "key": "products",
+          "title": "DISCOVER OUR PRODUCTS",
+          "link": "See our products",
+          "items": [
+            {
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/products/bianco.png",
+              "key": "product1",
+              "title": "AMARETTO BIANCO",
+              "description": "White crushed almonds <br>Lactose free <br>16% Alc. Vol. 70 cl."
+            },
+            {
+              "picture": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/assets/products/roasted.png",
+              "key": "product2",
+              "title": "AMARETTO ROASTED",
+              "description": "Roasted almonds <br> A pinch of sea salt <br> 28% Alc Vol. 70 cl."
+            }
+          ]
+        },
+        {
+          "key": "event",
+          "title": "SIGNATURE COCKTAIL"
+        }
+      ]
+    }
+  ],
+  "search": {
+    "ctas": [
+      "LOCATION_CTA_NAVIGATE",
+      "LOCATION_CTA_DISPLAY_PHONE",
+      "LOCATION_CTA_CALL",
+      "LOCATION_CTA_INTERNAL_SHOW_MAP",
+      "LOCATION_CTA_GO_TO_WEBSITE"
+    ],
+    "divisions": true,
+    "customFilters": [],
+    "places": true,
+    "hitsPerPage": 30,
+    "hotContent": [],
+    "divisionStartLevel": 1,
+    "scoring": "",
+    "geoIP": {
+      "enabled": true,
+      "maxRadius": 30000
+    },
+    "clusters": true,
+    "markers": [
+      {
+        "url": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/markers/bar.png",
+        "type": "bar"
+      },
+      {
+        "type": "pos",
+        "url": "https://lpe-prod.s3.amazonaws.com/adriatico-bkkyyqn0nb/markers/pos.png"
+      }
+    ],
+    "type": true,
+    "geoHTML": {
+      "enabled": true,
+      "automatic": true,
+      "maxRadius": 30000
+    }
+  },
+  "boardCtas": [
+    "LOCATION_CTA_DISPLAY_PHONE",
+    "LOCATION_CTA_CALL",
+    "LOCATION_CTA_NAVIGATE",
+    "LOCATION_CTA_SHOW_SHARE_PANEL"
+  ],
+  "theme": [
+    {
+      "key": "generic.brand.color",
+      "value": "0,0,0"
+    },
+    {
+      "key": "generic.brand.accent",
+      "value": "221,186,98"
+    },
+    {
+      "key": "generic.brand.darken",
+      "value": "0,0,0"
+    },
+    {
+      "key": "generic.brand.lighten",
+      "value": "255,255,255"
+    },
+    {
+      "key": "header-background-color",
+      "value": "var(--generic-brand-lighten)"
+    },
+    {
+      "key": "header-link-text-color",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "header-link-text-hover",
+      "value": "var(--generic-brand-color)"
+    },
+    {
+      "key": "header-search-text-color",
+      "value": "var(--generic-brand-color)"
+    },
+    {
+      "key": "footer-client-link-color",
+      "value": "var(--generic-text-color)"
+    },
+    {
+      "key": "footer-legal-location-link-color",
+      "value": "var(--generic-text-color)"
+    },
+    {
+      "key": "header-search-text-hover",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "generic-link-hover",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "result-link-hover",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "generic-cta-color",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "result-link-background-color",
+      "value": "246,246,246"
+    },
+    {
+      "key": "result-link-background-hover",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "generic-cta-border",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "generic-cta-hoverBackground",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "generic-cta-hoverBorder",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "board-cta-text-hover",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "board-cta-icon-color",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "board-cta-text-color",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "footer-client-background-color",
+      "value": "var(--generic-brand-lighten)"
+    },
+    {
+      "key": "footer-client-link-text",
+      "value": "var(--generic-brand-color)"
+    },
+    {
+      "key": "footer-client-link-hover",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "footer-legal-location-background-color",
+      "value": "var(--generic-brand-lighten)"
+    },
+    {
+      "key": "footer-legal-location-text-color",
+      "value": "var(--generic-brand-color)"
+    },
+    {
+      "key": "footer-legal-location-link-hover",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "logo.height",
+      "value": "50px"
+    },
+    {
+      "key": "customList.picture.background.color",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "customList.picture.text.color",
+      "value": "var(--generic-brand-lighten)"
+    },
+    {
+      "key": "generic.background.color",
+      "value": "var(--generic-brand-lighten)"
+    },
+    {
+      "key": "font-subtitle-color",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "font-title-color",
+      "value": "var(--generic-brand-accent)"
+    },
+    {
+      "key": "hot.visible",
+      "value": "4"
+    },
+    {
+      "key": "custom-gotomap-background",
+      "value": "0,160,205"
+    },
+    {
+      "key": "custom-gotomap-color",
+      "value": "255,255,255"
+    },
+    {
+      "key": "custom-gotomap-backgroundHover",
+      "value": "181,229,242"
+    },
+    {
+      "key": "form-chip-background-color",
+      "value": "0,160,205"
+    },
+    {
+      "key": "form-chip-text-color",
+      "value": "255,255,255"
+    },
+    {
+      "value": "181,229,242",
+      "key": "form-chip-background-hover"
+    },
+    {
+      "key": "header-link-text-font-weight",
+      "value": "600"
+    },
+    {
+      "key": "form-chip-background-active",
+      "value": "0,160,205"
+    }
+  ],
+  "layout": {
+    "feed": [
+      {
+        "name": "Breadcrumb"
+      },
+      {
+        "name": "Description",
+        "options": {
+          "gridLength": 6,
+          "itemsPerRowMd": 1,
+          "itemsPerRowLg": 1
+        }
+      },
+      {
+        "name": "CustomList",
+        "options": {
+          "componentList": "Grid",
+          "key": "event",
+          "itemsPerRowMd": 1,
+          "itemsPerRowLg": 1,
+          "componentItem": "Picture",
+          "gridLength": 6
+        }
+      },
+      {
+        "name": "CustomList",
+        "options": {
+          "gridLength": 6,
+          "key": "products",
+          "componentList": "Grid",
+          "itemsPerRowMd": 2,
+          "itemsPerRowLg": 2,
+          "componentItem": "IllustratedContent"
+        }
+      },
+      {
+        "name": "CustomList",
+        "options": {
+          "gridLength": 12,
+          "key": "cocktails",
+          "componentList": "Grid",
+          "componentItem": "Picture",
+          "itemsPerRowMd": 4,
+          "itemsPerRowLg": 4
+        }
+      }
+    ]
+  },
+  "logo": "https://lpe-prod.s3.eu-west-3.amazonaws.com/adriatico-bkkyyqn0nb/logo/logo.png",
+  "name": "Adriatico",
+  "slug": "adriatico",
+  "socialLinks": [
+    {
+      "locale": "fr",
+      "items": [
+        {
+          "type": "facebook",
+          "url": "https://facebook.com/amarettoadriatico"
+        },
+        {
+          "type": "pinterest",
+          "url": "https://www.pinterest.fr/amarettoadriatico/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/amarettoadriatico/"
+        },
+        {
+          "type": "linkedin",
+          "url": "https://www.linkedin.com/company/amarettoadriatico/"
+        }
+      ]
+    },
+    {
+      "locale": "en",
+      "items": [
+        {
+          "url": "https://facebook.com/amarettoadriatico",
+          "type": "facebook"
+        },
+        {
+          "type": "pinterest",
+          "url": "https://www.pinterest.fr/amarettoadriatico/"
+        },
+        {
+          "url": "https://www.instagram.com/amarettoadriatico/",
+          "type": "instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/amarettoadriatico/",
+          "type": "linkedin"
+        }
+      ]
+    }
+  ],
+  "indexable": true,
+  "headerLinks": [
+    {
+      "locale": "fr",
+      "items": [
+        {
+          "name": "ACHETER EN LIGNE",
+          "url": "https://www.amarettoadriatico.com/pages/buy-online"
+        }
+      ],
+      "layout_parent": "label",
+      "layout_children": "label"
+    },
+    {
+      "layout_parent": "label",
+      "layout_children": "label",
+      "locale": "en",
+      "items": [
+        {
+          "name": "BUY ONLINE",
+          "url": "https://www.amarettoadriatico.com/pages/buy-online"
+        }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "locale": "fr",
+      "items": [
+        {
+          "key": "translation.search.filters.types.bar",
+          "value": "COCKTAIL BARS ET RESTAURANTS"
+        },
+        {
+          "key": "translation.search.filters.types.pos",
+          "value": "CAVES"
+        },
+        {
+          "key": "translation.search.subtitle",
+          "value": "Trouver un établissement"
+        },
+        {
+          "key": "translation.search.title.geoip",
+          "value": "Les établissements autour de vous"
+        },
+        {
+          "key": "translation.location.back",
+          "value": "Tous nos établissements"
+        },
+        {
+          "key": "translation.location.description",
+          "value": "DÉCOUVREZ L'ÉTABLISSEMENT"
+        },
+        {
+          "key": "translation.search.divisions",
+          "value": "Tous les pays"
+        },
+        {
+          "key": "translation.search.title.nogeo",
+          "value": "{count} établissements correspondant à votre recherche"
+        },
+        {
+          "key": "translation.search.title.empty",
+          "value": "Aucun établissement trouvé"
+        },
+        {
+          "key": "translation.search.emptyText",
+          "value": "Aucun établissement ne correspond à votre recherche, veuillez la modifier pour obtenir des résultats."
+        },
+        {
+          "key": "translation.search.all",
+          "value": "Afficher tous les établissements"
+        },
+        {
+          "key": "translation.search.title.alternate",
+          "value": "Les établissements qui pourraient vous intéresser"
+        },
+        {
+          "key": "translation.search.title.geoLabel",
+          "value": "Établissements à proximité de {position}"
+        },
+        {
+          "key": "translation.search.placeholder",
+          "value": "Nom du bar, cave, ville, etc."
+        },
+        {
+          "key": "translation.search.filters.type",
+          "value": " "
+        },
+        {
+          "key": "translation.search.more",
+          "value": "Afficher plus de résultats"
+        }
+      ]
+    },
+    {
+      "locale": "en",
+      "items": [
+        {
+          "key": "translation.search.filters.types.bar",
+          "value": "COCKTAIL BARS AND RESTAURANTS"
+        },
+        {
+          "key": "translation.search.filters.types.pos",
+          "value": "POINTS OF SALE"
+        },
+        {
+          "key": "translation.search.divisions",
+          "value": "All countries"
+        },
+        {
+          "key": "translation.search.filters.type",
+          "value": " "
+        }
+      ]
+    }
+  ],
+  "headerCenteredLogo": true,
+  "footerToggle": false,
+  "index": "TRUH",
+  "favicon": "https://lpe-prod.s3.eu-west-3.amazonaws.com/adriatico-bkkyyqn0nb/logo/favicon.png",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "distanceUnit": "km",
+  "productLocatorStatus": false,
+  "template": {
+    "activity": "FullscreenTwoColumns",
+    "list": "FullscreenTwoColumns",
+    "location": "FullscreenTwoColumns",
+    "search": "FullscreenTwoColumns",
+    "static": "FullscreenTwoColumns"
+  },
+  "defaultLocale": "fr",
+  "mapConfig": "[\n    {\n        \"featureType\": \"administrative\",\n        \"elementType\": \"labels.text.fill\",\n        \"stylers\": [\n            {\n                \"color\": \"#444444\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"landscape\",\n        \"elementType\": \"all\",\n        \"stylers\": [\n            {\n                \"color\": \"#f2f2f2\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"poi\",\n        \"elementType\": \"all\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road\",\n        \"elementType\": \"all\",\n        \"stylers\": [\n            {\n                \"saturation\": -100\n            },\n            {\n                \"lightness\": 45\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.highway\",\n        \"elementType\": \"all\",\n        \"stylers\": [\n            {\n                \"visibility\": \"simplified\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.arterial\",\n        \"elementType\": \"labels.icon\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"transit\",\n        \"elementType\": \"all\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"water\",\n        \"elementType\": \"all\",\n        \"stylers\": [\n            {\n                \"color\": \"#46bcec\"\n            },\n            {\n                \"visibility\": \"on\"\n            }\n        ]\n    }\n]",
+  "gtmKey": "G",
+  "detectBrowserLocale": false
+}
